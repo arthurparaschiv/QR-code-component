@@ -1,0 +1,13 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "paraschivarthur <arturparaschiv@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  },
+  "scripts": {
+    "sass-watch": "sass assets/scss/main.scss build/css/main.css --watch --no-source-map"
+  }
+}
